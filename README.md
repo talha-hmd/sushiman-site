@@ -60,7 +60,7 @@ This project was designed to practice and demonstrate:
 | `index.html`      | Main HTML structure              |
 | `css/style.css`   | Combined styles for all sections |
 | `assets/`         | Images, icons, and visuals       |
-| `js/script.js`    | AOS/GSAP animation triggers      |
+| `js/script.js`    | AOS animation triggers      |
 
 ## 📄 License
 
