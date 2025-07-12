@@ -2,6 +2,10 @@
 
 A beautifully animated **Japanese food website** built using **HTML, CSS and JavaScript**. It’s a fully responsive, scroll-animated landing page crafted for frontend learning, portfolio use, or real-world deployment.
 
+## 📊 Preview
+
+![Sushiman Screenshot](<img width="1900" height="972" alt="sushimat-site" src="https://github.com/user-attachments/assets/8d24cdca-b173-494e-8712-c433eb9a324e" />)
+
 ## 🧠 Project Goal
 
 This project was designed to practice and demonstrate:
