@@ -4,7 +4,7 @@ A beautifully animated **Japanese food website** built using **HTML, CSS and Jav
 
 ## 📊 Preview
 
-![Sushiman Screenshot](<img width="1900" height="972" alt="sushimat-site" src="https://github.com/user-attachments/assets/8d24cdca-b173-494e-8712-c433eb9a324e" />)
+<img width="1900" height="972" alt="sushimat-site" src="https://github.com/user-attachments/assets/ec34bbdc-d05b-4afd-9b3b-5458918e1dd5" />
 
 ## 🧠 Project Goal
 
